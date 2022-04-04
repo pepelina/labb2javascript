@@ -1,0 +1,25 @@
+{
+  "name": "provprojekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrahansen/provprojekt.git"
+  },
+  "author": "petra hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrahansen/provprojekt/issues"
+  },
+  "homepage": "https://github.com/petrahansen/provprojekt#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}

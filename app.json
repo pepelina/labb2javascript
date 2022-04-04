@@ -1,0 +1,7 @@
+{
+"name": "provprojekt",
+"description": "Javascript backend",
+"repository": "https://github.com/petrahansen/provprojekt.git",
+"logo": ["node", "express", "heroku"],
+"image": "heroku/nodejs"
+}
