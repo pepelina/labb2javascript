@@ -1,5 +1,5 @@
 {
-  "name": "provprojekt",
+  "name": "labb2javascript",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petrahansen/provprojekt.git"
+    "url": "git+https://github.com/pepelina/labb2javascript.git"
   },
   "author": "petra hansen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/petrahansen/provprojekt/issues"
+    "url": "https://github.com/pepelina/labb2javascript/issues"
   },
-  "homepage": "https://github.com/petrahansen/provprojekt#readme",
+  "homepage": "https://github.com/pepelina/labb2javascript#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",

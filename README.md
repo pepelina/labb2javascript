@@ -1,1 +1,1 @@
-# provprojekt
+# labb2javascript

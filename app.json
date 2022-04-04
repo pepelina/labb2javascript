@@ -1,7 +1,7 @@
 {
-"name": "provprojekt",
+"name": "labb2javascript",
 "description": "Javascript backend",
-"repository": "https://github.com/petrahansen/provprojekt.git",
+"repository": "https://github.com/pepelina/labb2javascript.git",
 "logo": ["node", "express", "heroku"],
 "image": "heroku/nodejs"
 }
