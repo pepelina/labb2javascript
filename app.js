@@ -11,7 +11,7 @@ app.use(cors())
 app.use(bodyParser.json());
 
 app.get("/", (request, response) =>{
-    headers={"http_status";200, "cache-control": "no-chache"}
+    headers={"http_status":200, "cache-control": "no-chache"}
     body={"status": "available"}
     response.set('Content-Type', 'application/json');
     response.status(200).send(body)
