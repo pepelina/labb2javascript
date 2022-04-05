@@ -2,6 +2,7 @@
 "name": "labb2javascript",
 "description": "Javascript backend",
 "repository": "https://github.com/pepelina/labb2javascript.git",
-"logo": ["node", "express", "heroku"],
+"logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+"keywords": ["node", "express", "heroku"],
 "image": "heroku/nodejs"
 }
